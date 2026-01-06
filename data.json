@@ -1,6 +1,6 @@
 {
   "meta": {
-    "title": "End-to-End Text-to-Speech Based on Emotion Label Control",
+    "title": "End-to-End Text-to-Speech With Emotion Label-Based Control",
     "authors": [
       "Danyang Cao",
       "Jinyuan Zhang"
@@ -162,3 +162,4 @@
   ]
 
 }
+
