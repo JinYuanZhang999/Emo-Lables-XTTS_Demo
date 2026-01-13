@@ -11,7 +11,7 @@
       { "name": "Model", "url": "https://huggingface.co/Jinyuan0910/Emo-Lables-XTTS/tree/main" },
       { "name": "Dataset", "url": "https://huggingface.co/datasets/Jinyuan0910/ELDB/tree/main" }
     ],
-    "abstract": "Achieving stable and controllable emotional expression remains a key challenge for text-to-speech (TTS) systems, as emotional information is often entangled with speaker timbre in existing emotional TTS approaches relying on emotional reference speech or limited-scale emotion-labeled datasets. In this letter, we propose an emotion label-based emotion control method and construct a high-quality emotion-labeled speech dataset (ELSD). By introducing emotion labels on the text side and using neutral reference speech to provide speaker timbre, the proposed method achieves the disentanglement of emotional information and speaker timbre, enabling stable emotion control while preserving speaker identity. In addition, a two-stage fine-tuning strategy is designed, and an emotion consistency loss (ECL) is introduced to further enhance the stability of emotion control. Experimental results demonstrate that the proposed method achieves more effective emotion control and stronger emotional expressiveness, while maintaining good speech naturalness and speaker consistency.",
+    "abstract": "Achieving stable and controllable emotional expression remains a key challenge for text-to-speech (TTS) systems, as emotional information is often entangled with speaker timbre in existing emotional TTS approaches relying on emotional reference speech or limited-scale emotion-labeled datasets. In this letter, we propose an emotion label-based emotion control method and construct a high-quality emotion-labeled speech dataset (ELSD). By introducing emotion labels on the text side and using neutral reference speech to provide speaker timbre, the proposed method achieves the disentanglement of emotional information and speaker timbre, enabling stable emotion control while preserving speaker identity. In addition, a two-stage fine-tuning strategy is designed, and an emotion consistency loss (ECL) is introduced to further enhance the stability of emotion control. Experimental results demonstrate consistent improvements in both subjective and objective emotion-related metrics over the baseline and comparative emotional TTS models, while maintaining competitive speech naturalness and speaker similarity.",
     "teaserImage": "assets/imgs/model_architecture.png"
   },
   "experiments": [
@@ -152,6 +152,7 @@
   ]
 
 }
+
 
 
 
