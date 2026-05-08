@@ -8,7 +8,7 @@
     ],
     "institution": "School of Artificial Intelligence and Computer Science, North China University of Technology, Beijing, China 100144",
     "links": [
-      { "name": "Code", "url": "https://github.com/JinYuanZhang999/Emo-Lables-XTTS" },
+      { "name": "Code", "url": "https://github.com/JinYuanZhang999/Emo-Labels-XTTS" },
       { "name": "Model", "url": "https://huggingface.co/Jinyuan0910/Emo-Lables-XTTS/tree/main" },
       { "name": "Dataset", "url": "https://huggingface.co/datasets/Jinyuan0910/ELDB/tree/main" }
     ],
